@@ -1,0 +1,118 @@
+{
+    "artist": {
+      "name": "Avicii",
+      "birth_name": "Tim Bergling",
+      "birth_date": "1989-09-08",
+      "death_date": "2018-04-20",
+      "nationality": "Swedish",
+      "image_url": "https://www.rollingstone.com/wp-content/uploads/2020/06/avicii-Credit-Sean-Eriksson.jpg?w=1581&h=1054&crop=1"
+    },
+    "albums": [
+      {
+        "title": "True",
+        "release_date": "2013-09-13",
+        "image_url": "https://images5.alphacoders.com/481/thumb-1920-481001.gif",
+        "tracks": [
+          {
+            "title": "Wake Me Up",
+            "length": "4:09",
+            "featured_artist": "Aloe Blacc"
+          },
+          {
+            "title": "Hey Brother",
+            "length": "4:15",
+            "featured_artist": "Dan Tyminski"
+          },
+          {
+            "title": "Addicted to You",
+            "length": "2:28",
+            "featured_artist": "Audra Mae"
+          }
+        ]
+      },
+      {
+        "title": "Stories",
+        "release_date": "2015-10-02",
+        "image_url": "https://www.yourlifeupdated.net/wp-content/uploads/2015/07/avicii-stories-promo-2015.png",
+        "tracks": [
+          {
+            "title": "Waiting for Love",
+            "length": "3:50",
+            "featured_artist": "Simon Aldred"
+          },
+          {
+            "title": "For a Better Day",
+            "length": "3:26",
+            "featured_artist": "Alex Ebert"
+          },
+          {
+            "title": "Broken Arrows",
+            "length": "3:52",
+            "featured_artist": "Zac Brown"
+          }
+        ]
+      },
+      {
+        "title": "Tim",
+        "release_date": "2019-06-06",
+        "image_url": "https://i.pinimg.com/736x/bd/ef/3c/bdef3c47edee2905d65a2e210e50a73c.jpg",
+        "tracks": [
+          {
+            "title": "SOS",
+            "length": "2:37",
+            "featured_artist": "Aloe Blacc"
+          },
+          {
+            "title": "Heaven",
+            "length": "4:37",
+            "featured_artist": "Chris Martin"
+          },
+          {
+            "title": "Fades Away",
+            "length": "2:58",
+            "featured_artist": "Noonie Bao"
+          }
+        ]
+      }
+    ],
+    "notable_singles": [
+      {
+        "title": "Levels",
+        "release_date": "2011-10-28",
+        "length": "3:18",
+        "image_url": "https://static.planetminecraft.com/files/resource_media/screenshot/1213/avicii-levels-remixes-lessthan3_1813708.jpg"
+      },
+      {
+        "title": "I Could Be the One",
+        "release_date": "2012-12-26",
+        "length": "3:28",
+        "collaboration": "Nicky Romero",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/a/a2/AV_vs_NR_-_I_Could_Be_the_One_single_cover.jpg"
+      },
+      {
+        "title": "Lonely Together",
+        "release_date": "2017-08-11",
+        "length": "3:01",
+        "featured_artist": "Rita Ora",
+        "image_url": "https://prodrumloops.com/wp-content/uploads/2017/10/lonely-forever-300x300.jpg"
+      }
+    ],
+    "awards": [
+      {
+        "award": "American Music Awards",
+        "category": "Favorite Electronic Dance Music Artist",
+        "year": 2013,
+        "result": "Won",
+        "image_url": "https://christiantoday-4cf9.kxcdn.com/en/full/18028/american-music-awards-2013.png?w=652&h=326&l=50&t=40"
+      },
+      {
+        "award": "Billboard Music Awards",
+        "category": "Top Dance/Electronic Song",
+        "year": 2014,
+        "result": "Won",
+        "work": "Wake Me Up",
+        "image_url": "https://www.billboard.com/wp-content/uploads/2021/04/billboard-music-awards-2021-logo-billboard-1548-1619637875.jpg?w=942&h=623&crop=1&resize=942%2C623"
+      }
+    ]
+  }
+  
