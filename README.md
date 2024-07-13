@@ -5,4 +5,4 @@ Installation is rather simple. Ubuntu Linux is required.
 -Activate live server (port 5500)
 -Enjoy!
 
-Feature: Hover mouse over each card and click to reveal details. Click again to revert to original card.
+Feature: Hover over each card and click to reveal details. Click again to revert to original card.
